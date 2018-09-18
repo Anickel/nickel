@@ -3,7 +3,7 @@ void main()
 {
   int a;
   scanf("%d");
-  if(a==366)
+  if(a/400)
   printf("yes");
   else
   printf("no");
